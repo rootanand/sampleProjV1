@@ -10,7 +10,7 @@
 
 * Can use the Markdown Extension Pack in VSCode for UI Support. 
 
-  ![](.\Images\MarkdownExtension.JPG)
+  ![](Images\MarkdownExtension.JPG)
 
   
 
@@ -21,7 +21,7 @@
 3. Decide if it is a 1D array of 9 elements or a 3 x 3 2D array. We choose 1D array containing *Characters.*
 4. Display the Board to the user as a  3 x 3 2D array as shown in the image below.
 
-![Tic Tac Toe Board - Initialized](.\Images\EmptyBoard.JPG)
+![Tic Tac Toe Board - Initialized](Images\EmptyBoard.JPG)
 
 4. Code Snippet used for Displaying the Board as a 3 x 3 2D array.
 
