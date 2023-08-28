@@ -1,0 +1,5 @@
+c:\users\decoy\documents\visual studio 2012\Projects\TicTacToeV1\TicTacToeV1\bin\Debug\TicTacToeV1.exe.config
+c:\users\decoy\documents\visual studio 2012\Projects\TicTacToeV1\TicTacToeV1\bin\Debug\TicTacToeV1.exe
+c:\users\decoy\documents\visual studio 2012\Projects\TicTacToeV1\TicTacToeV1\bin\Debug\TicTacToeV1.pdb
+c:\users\decoy\documents\visual studio 2012\Projects\TicTacToeV1\TicTacToeV1\obj\Debug\TicTacToeV1.exe
+c:\users\decoy\documents\visual studio 2012\Projects\TicTacToeV1\TicTacToeV1\obj\Debug\TicTacToeV1.pdb
